@@ -1,0 +1,10 @@
+{
+    "Emissions": "emission,co2 emission,co2e emission,ghg emission,emission reduction,emission target,Emissions Policy",
+    "Water": "Water Withdrawal,Water Discharged,Water Recycled,water risk",
+    "Energy": "Energy Consumed,Renewable Energy",
+    "Business Ethics": "Women Executives,Women Board Members,Board Members,Committee Independence,ESG Sustainability Reporting",
+    "Labor Practices": "Trade Union,CEO Salary,Employee Turnover,Training Hours",
+    "Employee Engagement, Diversity & Inclusion": "Women Employees,Women Managers,Minority Employees",
+    "Employee Health & Safety": "Lost Time,Injury Rate",
+    "Waste": "Waste"
+}
